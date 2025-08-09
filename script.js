@@ -35,14 +35,6 @@ async function runtest (n) {
 }
 runtest(5);
 runtest(-5);
-// Try with a negative number
-// checkNumber(-3)
-//   .then((message) => {
-//     console.log("Resolved:", message);
-//   })
-//   .catch((error) => {
-//     console.error("Rejected:", error);
-//   });
 
 // Destructuring example with an array of team members
 const team = [
